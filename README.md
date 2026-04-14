@@ -110,7 +110,7 @@ strengths:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ing-CarlosGale0319&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
