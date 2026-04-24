@@ -9,7 +9,6 @@
 ╚═╝╚═╝  ╚═══╝ ╚═════╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-# Ing Carlos Gale
 
 ### Full-Stack Developer · Problem Solver · Continuous Learner
 
