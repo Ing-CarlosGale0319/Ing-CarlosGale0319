@@ -62,3 +62,9 @@ professional_profile:
 
   soft_skills:
     values: ["Disciplina", "Comunicación Técnica", "Proactividad"]
+# Roadmap de Especialización 2026
+
++ Cloud Infrastructure (AWS/Azure)
++ Microservices & Docker Containerization
++ CI/CD Pipeline Implementation
+- Legacy monolithic patterns
