@@ -181,62 +181,6 @@ PostgreSQL
 Zod
 JWT
 ```
-
----# Featured Projects
-
-## Kimmy's Store
-
-Modern Full Stack e-commerce platform developed for a real client.
-
-### Features
-
-- Responsive Landing Page
-- Private Administrative Panel
-- Product Management (CRUD)
-- Image Upload with Cloudinary
-- Redis Persistence
-- JWT Authentication
-- Production Deployment on Vercel
-
-### Tech Stack
-
-```text
-Next.js 16
-React 19
-TypeScript
-Tailwind CSS
-Redis (Upstash)
-Cloudinary
-JWT
-Vercel
-```
-
----
-
-## Management ERP
-
-Business management system focused on inventory, products, customers and sales.
-
-### Features
-
-- Layered Architecture
-- JWT Authentication
-- Role-Based Authorization
-- PostgreSQL Database
-- Zod Validation
-- REST API
-- Modular Structure
-
-### Tech Stack
-
-```text
-Node.js
-Express
-TypeScript
-PostgreSQL
-Zod
-JWT
-```
 ...
 
 # Development Principles
